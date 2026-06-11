@@ -1,4 +1,6 @@
-👋 Hello, I'm Shanmukh Chakravarthula
+<img width="256" height="256" alt="Shanmukh Chakravarthula" src="https://github.com/user-attachments/assets/360c6cc5-42ab-46bb-9b87-6405b99bbb2f" />
+
+👋 Hi, I'm Shanmukh Chakravarthula
 
 🚀 About Me
 
