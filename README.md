@@ -40,6 +40,6 @@ Install Extension: Get Red Panda Runner
 
 📫 Connect with Me
 
-🐙 GitHub: @Shanmukh-Chakravarthula 
+🐙 GitHub: github.com/Shanmukh-Chakravarthula 
 
 📧 Email: correct_18wavy@icloud.com 
