@@ -16,7 +16,7 @@ Specializations: Compiler tooling integration, Native Windows applications, Prod
 
 📦 Published Ecosystem
 
-📝 CS-WRiTE
+[CS-WRiTE](https://apps.microsoft.com/detail/9NC2K0ZTNJC6?hl=en-us&gl=IN&ocid=pdpshare)
 
 An elegant, robust writing companion application designed for modern desktop environments.
 
@@ -24,9 +24,9 @@ Platform: Natively compiled and distributed on the Microsoft Store.
 
 Features: Optimized typography, responsive workspace environments, and distraction-free writing ergonomics.
 
-Get it on Microsoft Store: Download CS-WRiTE
+Get it on Microsoft Store: [Download CS-WRiTE](https://apps.microsoft.com/detail/9NC2K0ZTNJC6?hl=en-us&gl=IN&ocid=pdpshare)
 
-🐼 Red Panda Runner
+[Red Panda Runner](https://marketplace.visualstudio.com/items?itemName=Shanmukh-Chakravarthula.red-panda-runner)
 
 A high-speed, intuitive compilation runner extension constructed directly for VS Code.
 
@@ -34,12 +34,12 @@ Platform: Visual Studio Code Marketplace.
 
 Features: Instant environment configuration pathways, lightweight execution handles for running local scripts, and a smooth UX tailored for programming languages.
 
-Install Extension: Get Red Panda Runner
+Install Extension: [Get Red Panda Runner](https://marketplace.visualstudio.com/items?itemName=Shanmukh-Chakravarthula.red-panda-runner)
 
 📈 Contribution Matrix & Stats
 
 📫 Connect with Me
 
-🐙 GitHub: github.com/Shanmukh-Chakravarthula 
+🐙 GitHub: [@Shanmukh-Chakravarthula](https://github.com/Shanmukh-Chakravarthula) 
 
-📧 Email: correct_18wavy@icloud.com 
+📧 Email: [correct_18wavy@icloud.com](mailto:correct_18wavy@icloud.com) 
