@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shanmukh Chakravarthula
-<img align="right" width="256" height="256" alt="Shanmukh Chakravarthula" src="https://github.com/user-attachments/assets/360c6cc5-42ab-46bb-9b87-6405b99bbb2f" style="background: transparent !important; border: none !important; box-shadow: none !important;" />
+<img align="right" width="256" height="256" alt="Shanmukh Chakravarthula" src="https://github.com/user-attachments/assets/99aa3d41-3f51-4d69-ba40-1afab2780e5c" style="background: transparent !important; border: none !important; box-shadow: none !important;" />
 
 ### 🚀 About Me
 
