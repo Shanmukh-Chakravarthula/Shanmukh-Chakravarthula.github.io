@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Panda Runner | VS Code Compilation Extension</title>
+    
+    <!-- Meta Descriptions for SEO -->
+    <meta name="description" content="Red Panda Runner is a high-speed, intuitive compilation runner extension constructed directly for VS Code.">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <header>
+        <div class="container nav-wrapper">
+            <a href="index.html" class="logo" id="nav-logo">Shanmukh Chakravarthula</a>
+            <div class="nav-actions">
+                <ul class="nav-links">
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="index.html#tech">Skills</a></li>
+                    <li><a href="index.html#projects">Projects</a></li>
+                    <li><a href="index.html#contact">Contact</a></li>
+                </ul>
+                <button class="theme-toggle-btn" aria-label="Toggle theme" id="theme-toggle">
+                    <!-- Sun Icon -->
+                    <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></svg>
+                    <!-- Moon Icon -->
+                    <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Subpage Hero -->
+    <section class="subpage-hero">
+        <a href="index.html" class="btn-back" id="btn-back-home">&larr; Back to Home</a>
+        <div class="container">
+            <img src="assets/red-panda-runner.png" alt="Red Panda Runner Logo" class="subpage-logo">
+            <h1 class="subpage-title">Red Panda Runner</h1>
+            <p class="subpage-tagline">A high-speed, intuitive compilation runner extension constructed directly for VS Code.</p>
+        </div>
+    </section>
+
+    <!-- Subpage Details Section -->
+    <section class="section" style="padding-top: 0;">
+        <div class="container subpage-details">
+            <!-- Left Side: Content & Features -->
+            <div class="glass-card">
+                <h2 style="font-size: 1.8rem; margin-bottom: 1.5rem; font-weight: 800;">Extension Overview</h2>
+                <p style="color: var(--text-muted); margin-bottom: 2.5rem; font-size: 1.1rem; line-height: 1.8;">
+                    Red Panda Runner makes local script execution fast and reliable in VS Code. It bridges the gap between writing code and testing it, providing customized runtime hooks and compiler tooling options directly inside your workspace sidebar.
+                </p>
+
+                <h3 style="font-size: 1.4rem; margin-bottom: 1.5rem; font-weight: 700;">Key Features</h3>
+                <div class="features-list">
+                    <!-- Feature 1 -->
+                    <div class="feature-item">
+                        <span class="feature-bullet">✦</span>
+                        <div>
+                            <h4 class="feature-title">Instant Environment Configurations</h4>
+                            <p class="feature-desc">Provides auto-detection paths for your compilers (such as GCC/G++ or Dart runtimes), helping you skip tedious configurations.</p>
+                        </div>
+                    </div>
+                    <!-- Feature 2 -->
+                    <div class="feature-item">
+                        <span class="feature-bullet">✦</span>
+                        <div>
+                            <h4 class="feature-title">Lightweight Execution Handles</h4>
+                            <p class="feature-desc">Dedicated commands and hotkey handles to trigger builds or run files natively without cluttering your system command shell.</p>
+                        </div>
+                    </div>
+                    <!-- Feature 3 -->
+                    <div class="feature-item">
+                        <span class="feature-bullet">✦</span>
+                        <div>
+                            <h4 class="feature-title">Tailored Programming UX</h4>
+                            <p class="feature-desc">Smooth Visual Studio Code interface overlays, built-in debug trackers, and speed analytics designed to improve workflow speed.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Side: Sidebar Meta -->
+            <div class="glass-card sidebar-card">
+                <h3 style="font-size: 1.3rem; margin-bottom: 1.5rem; font-weight: 700;">Metadata</h3>
+                
+                <div class="meta-info-title">Platform</div>
+                <div class="meta-info-value">Visual Studio Code (Extension)</div>
+
+                <div class="meta-info-title">Ecosystem</div>
+                <div class="meta-info-value">TypeScript / VS Code API</div>
+
+                <div class="meta-info-title">Languages Supported</div>
+                <div class="meta-info-value">C, C++, Dart, Local Scripts</div>
+
+                <div class="meta-info-title">Distribution</div>
+                <div class="meta-info-value">VS Code Extension Marketplace</div>
+
+                <a href="https://marketplace.visualstudio.com/items?itemName=Shanmukh-Chakravarthula.red-panda-runner" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="width: 100%; text-align: center; margin-top: 1rem;" id="btn-sidebar-marketplace">
+                    Install Extension
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p class="footer-text">&copy; 2026 Shanmukh Chakravarthula. Built with passion and compiled natively.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+</html>
