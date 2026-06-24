@@ -8,14 +8,14 @@ Built as a premium, device-agnostic, responsive portfolio showcasing my personal
 
 ## 🚀 Featured Projects
 - **[CS-WRiTE](https://shanmukh-chakravarthula.github.io/cs-write.html)**: Elegant, native Windows desktop writing companion built in C++/WinUI3.
-- **[CS-MathMate](https://shanmukh-chakravarthula.github.io/cs-mathmate.html)**: Native Windows mathematics helper app built in C++/WinUI3.
+- **[CS-MathMate](https://shanmukh-chakravarthula.github.io/cs-mathmate.html)**: Modern mathematical suite built in Flutter (Windows) and powered by an offline-first AST-based symbolic engine.
 - **[Red Panda Runner](https://shanmukh-chakravarthula.github.io/red-panda-runner.html)**: High-speed compiler runner extension for VS Code built in TypeScript.
 
 ---
 
 ## 🛠️ Tech Stack & Philosophy
-- **Languages**: C, C++, TypeScript, HTML5, CSS3, JavaScript
-- **Frameworks/Platforms**: WinUI3, Windows SDK, VS Code Extension API
+- **Languages**: Dart, C, C++, TypeScript, HTML5, CSS3, JavaScript
+- **Frameworks/Platforms**: Flutter, WinUI3, Windows SDK, VS Code Extension API
 - **Design Philosophy**: High-performance, minimalist software built to optimize daily developer and writer workflows.
 
 ---
